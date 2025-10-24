@@ -8,3 +8,6 @@
 
 ข้อ 13
 ![alt text](image-7.png)
+
+ข้อ 18
+![alt text](image-8.png)
