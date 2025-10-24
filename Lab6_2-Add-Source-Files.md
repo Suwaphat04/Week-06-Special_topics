@@ -621,7 +621,6 @@ void app_main(void)
 ```bash
 # Build project ขั้นสุดท้าย
 idf.py build
-
 # ตรวจสอบขนาด binary
 idf.py size
 
@@ -695,6 +694,7 @@ Lab6_2/
 - จำนวนไฟล์ source: _______
 - ขนาด binary: _______ bytes
 - การทำงาน: _________________
+
 
 **สังเกต:**
 - การเพิ่มไฟล์ source ส่งผลต่อขนาด binary อย่างไร?
